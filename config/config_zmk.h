@@ -15,6 +15,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 // define blueth
-#define BT(n) BT_SEL n
+
 
 // vim: set ft=c fdm=marker:
